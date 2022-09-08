@@ -1,1 +1,1 @@
-# speechRecognition
+# 科大讯飞语音识别功能 示例
